@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace StockManager
 {
@@ -6,7 +6,7 @@ namespace StockManager
     {
         static void Main(string[] args)
         {
-            IInventoryRepository repo = new InMemoryInventoryRepository();
+            //IInventoryRepository repo = new InMemoryInventoryRepository();
 
             while (true)
             {
@@ -22,3 +22,4 @@ namespace StockManager
         }
     }
 }
+
