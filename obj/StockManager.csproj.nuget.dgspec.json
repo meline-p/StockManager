@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/melinepischedda/Documents/Dev/C#/StockManager/StockManager.csproj": {}
+    "/Users/melinepischedda/Documents/Dev/Csharp/StockManager/StockManager.csproj": {}
   },
   "projects": {
-    "/Users/melinepischedda/Documents/Dev/C#/StockManager/StockManager.csproj": {
+    "/Users/melinepischedda/Documents/Dev/Csharp/StockManager/StockManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/melinepischedda/Documents/Dev/C#/StockManager/StockManager.csproj",
+        "projectUniqueName": "/Users/melinepischedda/Documents/Dev/Csharp/StockManager/StockManager.csproj",
         "projectName": "StockManager",
-        "projectPath": "/Users/melinepischedda/Documents/Dev/C#/StockManager/StockManager.csproj",
+        "projectPath": "/Users/melinepischedda/Documents/Dev/Csharp/StockManager/StockManager.csproj",
         "packagesPath": "/Users/melinepischedda/.nuget/packages/",
-        "outputPath": "/Users/melinepischedda/Documents/Dev/C#/StockManager/obj/",
+        "outputPath": "/Users/melinepischedda/Documents/Dev/Csharp/StockManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/melinepischedda/.nuget/NuGet/NuGet.Config"
