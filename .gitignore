@@ -1,0 +1,27 @@
+# IDE
+.vscode/
+*.user
+*.suo
+*.DS_Store
+
+# Build .NET
+bin/
+obj/
+Debug/
+Release/
+*.pdb
+*.dll
+*.cache
+
+# Base de données
+*.db
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+.env
+
+# Logs
+*.log
