@@ -2,6 +2,8 @@
 
 Full-stack application to manage a product inventory, using **ASP.NET Core** for the backend and **React** for the frontend.
 
+![Stock Manager](V2Web/images/stockManagerProductList.png)
+
 ---
 
 ## Sommaire
@@ -61,6 +63,8 @@ dotnet run
 - The API will be accessible at `http://localhost:5260/api/products`
 
 - Swagger UI is available at `http://localhost:5260/swagger`
+
+![Stock Manager](V2Web/images/stockManagerSwaggerInterface.png)
 
 **3. Set up the frontend (React + Vite)**
 
