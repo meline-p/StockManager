@@ -6,7 +6,7 @@ Full-stack application to manage a product inventory, using **ASP.NET Core** for
 
 ---
 
-## Sommaire
+## Table of Contents
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
